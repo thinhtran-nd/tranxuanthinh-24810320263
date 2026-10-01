@@ -1,0 +1,14 @@
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\bin\Debug\net10.0\tranxuanthinh-24810320263.exe
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\bin\Debug\net10.0\tranxuanthinh-24810320263.deps.json
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\bin\Debug\net10.0\tranxuanthinh-24810320263.runtimeconfig.json
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\bin\Debug\net10.0\tranxuanthinh-24810320263.dll
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\bin\Debug\net10.0\tranxuanthinh-24810320263.pdb
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.AssemblyInfo.cs
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.dll
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\refint\tranxuanthinh-24810320263.dll
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.pdb
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\tranxuanthinh-24810320263.genruntimeconfig.cache
+C:\Users\thinh\source\repos\tranxuanthinh-24810320263\tranxuanthinh-24810320263\obj\Debug\net10.0\ref\tranxuanthinh-24810320263.dll
