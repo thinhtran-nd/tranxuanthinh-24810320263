@@ -1,0 +1,16 @@
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\bin\Debug\net10.0-windows\tranxuanthinh.exe
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\bin\Debug\net10.0-windows\tranxuanthinh.deps.json
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\bin\Debug\net10.0-windows\tranxuanthinh.runtimeconfig.json
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\bin\Debug\net10.0-windows\tranxuanthinh.dll
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\bin\Debug\net10.0-windows\tranxuanthinh.pdb
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.Form1.resources
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.csproj.GenerateResource.cache
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.AssemblyInfo.cs
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.dll
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\refint\tranxuanthinh.dll
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.pdb
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\tranxuanthinh.genruntimeconfig.cache
+C:\Users\thinh\source\repos\tranxuanthinh\tranxuanthinh\obj\Debug\net10.0-windows\ref\tranxuanthinh.dll
