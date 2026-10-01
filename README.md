@@ -2,7 +2,6 @@
 Câu 1: Trình bày sự khác nhau giữa Value Types (Kiểu giá trị) và Reference Types (Kiểu tham chiếu) trong C# về cơ chế lưu trữ vùng nhớ (Stack vs Heap).
 
 Value Types (kiểu giá trị):
-
 - Biến chứa trực tiếp giá trị của dữ liệu.
 - Thường được lưu trên Stack khi biến là biến cục bộ.
 - Khi gán một biến Value Type cho biến khác, giá trị được sao chép sang biến mới.
